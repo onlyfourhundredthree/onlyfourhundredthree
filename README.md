@@ -21,16 +21,6 @@
 
 ---
 
-### ☕ Beni Tanıyın
-
-Ben **403**. Yazılım geliştirirken gereksiz karmaşadan, şişkin kütüphanelerden ve aşırı kaynak tüketen hantal yapılardan kaçınmayı ilke edindim.
-
-- 🦀 **Hafif ve Hızlı:** 500 MB RAM tüketen Electron uygulamaları yerine, **Tauri v2 & Rust** ile sistemde varlığı hissedilmeyen (<45 MB) araçlar geliştiriyorum.
-- 🛡️ **Güvenilir Sistemler:** Discord topluluklarının güvenliği için anlık işlem geri alma (rollback) yeteneğine sahip guard mekanizmaları ve gerçekçi oyun sistemleri tasarlıyorum.
-- 🤝 **Topluluk ve Paylaşım:** Discord.js v14'e geçerken geliştiricilerin takıldığı konuları (Intents, Slash Komutları, Collections) sade ve anlaşılır Türkçe rehberlerle açık kaynak olarak paylaşıyorum.
-
----
-
 ### 🌟 Öne Çıkan Projeler & Yayınlanan Altyapılar
 
 <div align="center">

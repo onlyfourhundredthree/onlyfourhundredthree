@@ -2,7 +2,7 @@
 
 <!-- Dinamik Animasyonlu Karşılama Başlığı -->
 <a href="https://github.com/onlyfourhundredthree">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+403+%F0%9F%91%8B;Masa%C3%BCst%C3%BC+%26+Sistem+Geli%C5%9Ftiricisi;Discord+Altyap%C4%B1lar%C4%B1+%26+A%C3%A7%C4%B1k+Kaynak;Performans%C4%B1+ve+Temiz+Kodu+Seven+Biri" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+toji+%F0%9F%91%8B;Masa%C3%BCst%C3%BC+%26+Sistem+Geli%C5%9Ftiricisi;Discord+Altyap%C4%B1lar%C4%B1+%26+A%C3%A7%C4%B1k+Kaynak;Performans%C4%B1+ve+Temiz+Kodu+Seven+Biri" alt="Typing SVG" />
 </a>
 
 <p align="center">
